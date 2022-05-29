@@ -1,0 +1,10 @@
+skill 1 - HTTP
+skill 2 - GIT
+skill 3 - VPN
+skill 4 - SQL
+skill 5 - Postman
+skill 6 - Charles
+skill 7 - Fidder
+skill 8 - Android Studio
+skill 9 - XCODE
+skill 10 - QA Theory
